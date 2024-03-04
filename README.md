@@ -1,3 +1,7 @@
+![image](https://github.com/DavideSiracusano/angular-task/assets/152174921/8a1b16d5-359e-4606-ab1a-ebab9b5cbcea)
+
+
+
 # AngularTask
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
