@@ -1,5 +1,5 @@
 ![image](https://github.com/DavideSiracusano/angular-task/assets/152174921/8a1b16d5-359e-4606-ab1a-ebab9b5cbcea)
-this project is a Task manager created with angular, basically you can add a new task by clicking the green button and write the task on the input element
+this project is a Task manager created with angular, basically you can add a new task by clicking the green button and write the task on the input element, you can also remind a specific task by clicking it and it will be displayed by a green line.
 
 
 # AngularTask
