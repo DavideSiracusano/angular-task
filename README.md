@@ -4,10 +4,10 @@ this project is a Task manager created with angular, basically you can add a new
 
 # AngularTask
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-clitarget="_blank) version 17.2.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
 ## Link to the project: 
-https://angulartask-7ff8d.web.app
+https://angulartask-7ff8d.web.app target="_blank
 
 ## Development server
 
