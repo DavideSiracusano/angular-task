@@ -6,7 +6,8 @@ this project is a Task manager created with angular, basically you can add a new
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
-##link to the project: https://angulartask-7ff8d.web.app
+## link to the project: 
+https://angulartask-7ff8d.web.app
 
 ## Development server
 
